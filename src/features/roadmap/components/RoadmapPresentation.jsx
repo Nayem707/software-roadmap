@@ -73,7 +73,7 @@ export default function RoadmapPresentation() {
               color: "var(--color-text-tertiary)",
             }}
           >
-            ROADMAP · {slides.length} PHASES
+            MODULE · {slides.length} TOPICS
           </div>
           <ul className="m-0 list-none p-0">
             {slides.map((slide, index) => (
