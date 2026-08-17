@@ -1,7 +1,7 @@
 export const roadmapCategories = [
   {
     id: "motivation-mindset",
-    title: "Motivation & AI Mindset",
+    title: "01. Engineering Mindset",
     description:
       "Develop the mindset, consistency, problem-solving habits, and learning discipline required to grow as a software developer.",
     route: "/motivation-mindset",
@@ -9,7 +9,7 @@ export const roadmapCategories = [
   },
   {
     id: "sdlc",
-    title: "SDLC",
+    title: "02. Understanding SDLC",
     description:
       "Understand the Software Development Life Cycle, from requirements and planning to development, testing, deployment, and maintenance.",
     route: "/sdlc",
@@ -17,7 +17,7 @@ export const roadmapCategories = [
   },
   {
     id: "frontend",
-    title: "Frontend Development",
+    title: "03. Frontend Development",
     description:
       "Build responsive, accessible interfaces with modern HTML, CSS, JavaScript, and framework workflows.",
     route: "/frontend",
@@ -25,7 +25,7 @@ export const roadmapCategories = [
   },
   {
     id: "backend",
-    title: "Backend Development",
+    title: "04. Backend Development",
     description:
       "Learn APIs, servers, databases, auth, and deployment patterns for full-stack product work.",
     route: "/backend",

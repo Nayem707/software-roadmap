@@ -99,7 +99,7 @@ export default function RoadmapViewer({ slides, topicId }) {
               color: "var(--color-text-tertiary)",
             }}
           >
-            ROADMAP · {topicId.toUpperCase()} · {allSlides.length} PHASES
+            MODULE · {topicId.toUpperCase()} · {allSlides.length} TOPICS
           </div>
           <ul className="m-0 list-none p-0">
             {allSlides.map((slide, index) => (
